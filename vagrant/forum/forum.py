@@ -3,6 +3,7 @@
 #
 
 # The forumdb module is where the database interface code goes.
+import psycopg2
 import forumdb
 
 # Other modules used to run a web server.
